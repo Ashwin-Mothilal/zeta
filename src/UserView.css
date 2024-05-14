@@ -1,0 +1,10 @@
+.user-container {
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+    gap: 10px;
+}
+
+.user-container input {
+    height: 30px;
+}
